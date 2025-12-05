@@ -33,7 +33,7 @@ This function validates the event, extracts file details, and pushes ingestion m
 
 <img width="1906" height="1074" alt="Screenshot 2025-12-05 183005" src="https://github.com/user-attachments/assets/799568e8-876e-44b1-9931-a7bacdcb0f1b" />
 
-
+The Requests has bee trigged successfully but the function app is not created so that the event is not deployed into it.So the message was missing.
 <img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/7b7a2404-34b6-4451-894d-01bfc4a6cd08" />
 
 
