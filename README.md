@@ -1,4 +1,4 @@
-Bank Ingestion Project---(Day-1)
+### Bank Ingestion Project---(Day-1)
 
 Overview:
 The ingestion system follows an event-driven architecture, where every file uploaded into ADLS triggers an Event Grid event, which is then processed by an Azure Function.
