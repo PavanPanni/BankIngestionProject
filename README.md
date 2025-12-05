@@ -31,4 +31,7 @@ This function validates the event, extracts file details, and pushes ingestion m
 5.Then it sends the details into Azure Service Bus
 6.Service Bus shows the ingested data into it.
 
+<img width="1906" height="1074" alt="Screenshot 2025-12-05 183005" src="https://github.com/user-attachments/assets/799568e8-876e-44b1-9931-a7bacdcb0f1b" />
+
+
 
