@@ -30,4 +30,3 @@ Workflow of Azure:
 6.Service Bus shows the ingested data into it.
 
 
-
